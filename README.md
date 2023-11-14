@@ -1,2 +1,6 @@
 # DSC180A-Methodology-4
-Yandong Xiang， Jingyu Zhang
+Yandong Xiang
+yaxiang@ucsd.edu
+
+Jingyu Zhang
+jiz036@ucsd.edu
